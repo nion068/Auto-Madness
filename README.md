@@ -15,6 +15,6 @@ To start the game we will use a push button. The whole gameplay will be on the d
 3. [Speaker, Model : AUD-00001](https://www.techshopbd.com/product-categories/audio/1007/speaker-techshop-bangladesh)
 
 ### Video Demonstration
-Description and live demo of this project can be found in [this youtube video](https://www.youtube.com/watch?v=7JMoSDt29jw)
+Description and live demonstration of this project can be found in [this youtube video](https://www.youtube.com/watch?v=7JMoSDt29jw)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7JMoSDt29jw/3.jpg)](https://www.youtube.com/watch?v=7JMoSDt29jw)
